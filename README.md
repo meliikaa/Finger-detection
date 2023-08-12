@@ -12,7 +12,7 @@ This project demonstrates real-time finger detection using the OpenCV library an
 - [Usage](#usage)
 - [Customization](#customization)
 - [Contributing](#contributing)
-- [License](#license)
+- [Problems](# Problems I have encountered)
 
 ## Introduction
 
@@ -22,7 +22,7 @@ This project aims to showcase hand gesture recognition and control using compute
 
 To run this project, you need:
 
-- Python (version 3.x recommended)
+- Python (version 3.11 recommended)
 - OpenCV (cv2) library
 - `cvzone` library
 - A webcam
@@ -68,10 +68,11 @@ You can customize the program by modifying the `finger_detection.py` script. You
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
 
-## License
+## Problems I have encountered
+I encountered several challenges while developing this code and seeking inspiration from the work of others. Frequently, the available resources I found were based on earlier versions of Python. However, due to the incompatibilities between these older resources and the newer versions of Python, a choice often needs to be made between downgrading Python or comprehensively modifying the code. For instance, certain functions like getargspec, which were available in previous versions, are no longer accessible in the newer ones.
 
-This project is licensed under the [MIT License](LICENSE).
+The code presented in this repository has been crafted to be compatible with Python 3.11, ensuring a smooth execution. Should you opt to download and reinstall a previous Python version, it is crucial to pay careful attention when updating the system's PATH variable to accommodate the new version.
 
----
+Additionally, there are instances when a "Port cannot be used" error arises. This issue commonly occurs when the serial monitor in Arduino is open. To resolve this, it's necessary to close the serial monitor and then relaunch the program.
 
-Feel free to customize this README template further to match your project's specific details and structure. Make sure to include any additional information that you think would be helpful for users who want to understand, install, and use your finger detection and gesture control project.
+Wishing you a productive and enjoyable programming experience!
