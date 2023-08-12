@@ -75,4 +75,8 @@ The code presented in this repository has been crafted to be compatible with Pyt
 
 Additionally, there are instances when a "Port cannot be used" error arises. This issue commonly occurs when the serial monitor in Arduino is open. To resolve this, it's necessary to close the serial monitor and then relaunch the program.
 
-Wishing you a productive and enjoyable programming experience!
+Wishing you a productive and enjoyable programming experience!![IMG_7691](https://github.com/meliikaa/Finger-detection/assets/111120849/afcbea35-00fe-41ef-a20e-102b11d57d89)
+![IMG_7689](https://github.com/meliikaa/Finger-detection/assets/111120849/682032f3-41d8-4f1c-ae6f-d71eb5c868a5)
+
+
+
