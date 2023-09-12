@@ -73,9 +73,11 @@ I encountered several challenges while developing this code and seeking inspirat
 
 The code presented in this repository has been crafted to be compatible with Python 3.11, ensuring a smooth execution. Should you opt to download and reinstall a previous Python version, it is crucial to pay careful attention when updating the system's PATH variable to accommodate the new version.
 
-Additionally, there are instances when a "Port cannot be used" error arises. This issue commonly occurs when the serial monitor in Arduino is open. To resolve this, it's necessary to close the serial monitor and then relaunch the program.
+Additionally, there are instances when a "Port cannot be used" error arises. This issue commonly occurs when the serial monitor in Arduino is open. To resolve this, it's necessary to close the serial
+monitor and then relaunch the program.
 
 Wishing you a productive and enjoyable programming experience!
 
 
+![IMG_7691](https://github.com/meliikaa/Finger-detection/assets/111120849/50806ee3-85e6-4a0d-aec9-951378838377)
 
